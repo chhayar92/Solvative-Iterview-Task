@@ -1,9 +1,13 @@
-Getting Started: 
-
 
 Problem Statement: 
-A brief description of the task.
+- Developed Quiz Application using HTML5, CSS3, Javascript and Jquery 
+- CSS framework used Bootstrap 5
 
 
 Completed: 
-A section listing the tasks you have completed. It is okay if you don’t complete all tasks, but the ones you submit should be functional.
+- Basic UI of Quiz application including responsive.
+- Progress bar to show time left.
+- Show next question after every 10 seconds.
+- If wrong answer is selected it will highlight correct answer.
+- Skip question to move to next question without answering.
+- Exit quiz to go back to main form. 
